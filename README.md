@@ -1,2 +1,3 @@
 # GameDev
-Các game dev
+Game đơn giản chủ yếu không code
+
